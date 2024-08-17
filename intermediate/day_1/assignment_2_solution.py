@@ -1,3 +1,5 @@
+# I LOVE PROGRAMMING -> PROGRAMMING
+
 def longest_word(string):
     current_word = ""
     longest_word = ""
