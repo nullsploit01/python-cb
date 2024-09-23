@@ -1,0 +1,7 @@
+Name: Harshal
+Phone: 76
+City: NG
+State: MH
+Country: IN
+Age: 23
+DOB: 21/10/2000
