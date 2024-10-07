@@ -1,5 +1,3 @@
-
-
 import random
 correct_answer = random.randint(1,100)
 user_answer = int(input("Enter number guess: "))
