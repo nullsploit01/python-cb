@@ -9,7 +9,8 @@ def read_high_scores():
                     username, score = line.strip().split(":")
                     high_scores[username] = int(score)
     except FileNotFoundError:
-        pass  
+        with open("high_scores.txt", "w") as file:
+            pass
     return high_scores
 
 def write_high_scores(high_scores):
