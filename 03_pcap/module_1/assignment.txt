@@ -1,0 +1,5 @@
+- write a calculator with math functions
+- write a dice game, (roll a dice and get a number between 1-6)
+- write a lottery number picker
+- write a script to generate system report and write in a file
+- write a custom module that writes data in a file.
