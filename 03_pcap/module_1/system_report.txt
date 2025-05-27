@@ -1,0 +1,8 @@
+System Report for Tue May 27 07:06:52 2025
+Platform: macOS-15.5-arm64-arm-64bit
+Machine: arm64
+Processor: arm
+System: Darwin
+Version: Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:33 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8122
+Python Implementation: CPython
+Python Version: ('3', '12', '10')
