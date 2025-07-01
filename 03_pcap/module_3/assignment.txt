@@ -1,0 +1,4 @@
+- write a program that takes a character and prints its ascii value
+- write a program that takes a number and prints its character
+- write a program that will compare 2 strings
+- write a program to find a string in a string
