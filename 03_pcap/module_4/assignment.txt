@@ -1,0 +1,4 @@
+# create a rectangle class
+# properties - length and width
+# method - perimeter(), area()
+# create a object and print its perimeter and area
